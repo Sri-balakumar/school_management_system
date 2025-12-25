@@ -176,13 +176,15 @@ School Management System/
 
 ---
 
-## 📞 Contact
+## 👨‍💻 Author
 
-For feedback or collaboration:
-
-* 📧 Email: `sribalakumarr@gmail.com`
+Sri Balakumar  
+GitHub: https://github.com/Sri-balakumar
 
 ---
 
-This project is licensed under the [MIT License](LICENSE).
+## 📜 License
 
+This project is licensed under the **MIT License**.
+
+⭐ Star this repository if you found it useful!
